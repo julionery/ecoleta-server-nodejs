@@ -25,10 +25,10 @@ routes.post(
       name: Joi.string().required(),
       email: Joi.string().required().email(),
       whatsapp: Joi.number().required(),
-      latitude: Joi.number().required(),
-      longitude: Joi.number().required(),
-      city: Joi.string().required(),
-      uf: Joi.string().required().max(2),
+      latitude: Joi.number().required().not(0),
+      longitude: Joi.number().required().not(0),
+      city: Joi.string().required().not('0'),
+      uf: Joi.string().required().max(2).not('0'),
       items: Joi.string().required(),
     })
   }, {
