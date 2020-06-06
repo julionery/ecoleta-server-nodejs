@@ -11,12 +11,15 @@
 <h2 align="center">API - Ecoleta</h2>
 
 ### :rocket: Tecnologias:
- - [TypeScript](https://www.typescriptlang.org/)
- - [NodeJS](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org/en/)
  
 ### :computer: Bibliotecas e ferramentas:
 - [Knex](http://knexjs.org/) - Construtor de consultas SQL para Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle e Amazon Redshift.
-- [Express](https://expressjs.com/)
+- [Express](https://expressjs.com/) - Utilizada para todo o gerenciamento da api.
+- [Multer](https://github.com/daryl/mutter) - Utilizada para upload de imagens.
+- [Celebrate](https://github.com/arb/celebrate) - Utilizada para fazer as validações dos campos.
+
 
 ### :information_source: Como Usar:
 
