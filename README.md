@@ -10,7 +10,7 @@
 </p>
 <h2 align="center">API - Ecoleta</h2>
 
-Este repositório contem a API do projeto [Ecoleta](https://github.com/julionery/rocketseat-nlw). 
+Este repositório contém a API do projeto [Ecoleta](https://github.com/julionery/rocketseat-nlw). 
 
 ### :pushpin: Projetos que dependem desse repositório:
 - [Ecoleta Web](https://github.com/julionery/ecoleta-web-react)
