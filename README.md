@@ -10,6 +10,12 @@
 </p>
 <h2 align="center">API - Ecoleta</h2>
 
+Este repositório contem a API do projeto [Ecoleta](https://github.com/julionery/rocketseat-nlw). 
+
+### :pushpin: Projetos que dependem desse repositório:
+- [Ecoleta Web](https://github.com/julionery/ecoleta-web-react)
+- [Ecoleta Mobile](https://github.com/julionery/ecoleta-mobile-react-native)
+
 ### :rocket: Tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
@@ -45,6 +51,9 @@ $ npm run knex:seed
 $ npm run dev
 
 ```
+
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
